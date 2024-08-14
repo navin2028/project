@@ -1,4 +1,3 @@
-# project
 # Character-Level RNN Language Model
 
 ## Table of Contents
